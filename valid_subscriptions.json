@@ -1,0 +1,100 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/v2ray",
+    "format": "base64",
+    "node_count": 55,
+    "content_hash": "6db9b0f8ec07ccccb34e2c885a94ee7c027aa2ee431c3120211841e4e2e43901",
+    "checked_at": "2026-09-24T07:16:36.151261+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml",
+    "format": "clash",
+    "node_count": 367,
+    "content_hash": "ab102e9705c0a87cbafd3b040aae7dc618fea5564a0a17b6855a643aa8767e8a",
+    "checked_at": "2026-09-24T07:16:36.427989+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/singBox.json",
+    "format": "sing-box",
+    "node_count": 361,
+    "content_hash": "8dbf5562e5862e1d296d8ea2be6518e4c760f7d8b08d0eba0bba4b3fa2be1014",
+    "checked_at": "2026-09-24T07:16:36.514004+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt",
+    "format": "base64",
+    "node_count": 2986,
+    "content_hash": "cd59150f6d22dd6538270e9ca6d6ccc6f567c46e963375bacb3a52293ad74217",
+    "checked_at": "2026-09-24T07:16:36.794152+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt",
+    "format": "base64",
+    "node_count": 100,
+    "content_hash": "e16ecd64f0799d4ab5fe314557abcc80b22723afdd9f4247b4e7ceb11f6694c2",
+    "checked_at": "2026-09-24T07:16:36.920969+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt",
+    "format": "plain",
+    "node_count": 7249,
+    "content_hash": "7beec092a263c05c3ba4aaeeb758938c3a8c0ff15e5fbb1a48edd35cb0414d7b",
+    "checked_at": "2026-09-24T07:16:37.503889+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt",
+    "format": "plain",
+    "node_count": 465,
+    "content_hash": "99cf3a69b55c10560dd4287e5df2b51a1b53c54643211f957f8e9dc88057adc0",
+    "checked_at": "2026-09-24T07:16:37.604129+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within.yaml",
+    "format": "clash",
+    "node_count": 1614,
+    "content_hash": "9e3bac93c99cce3860565a8fe6a8ce72b7900315a078195262a708b05d604972",
+    "checked_at": "2026-09-24T07:16:39.277842+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt",
+    "format": "base64",
+    "node_count": 438,
+    "content_hash": "70203bc5193295179cc226b9bb939c65b205745ef5813df67158df97946a2d62",
+    "checked_at": "2026-09-24T07:16:39.293885+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml",
+    "format": "clash",
+    "node_count": 438,
+    "content_hash": "9f78c95170354115b628bd7398ab8fa5dc076ea16d246d5f9c67b9a48c871f03",
+    "checked_at": "2026-09-24T07:16:39.731750+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
+    "format": "plain",
+    "node_count": 205,
+    "content_hash": "6783373a83f39428b84e18f03d231e0b39ab9e128b23ff90676259bf41c0513b",
+    "checked_at": "2026-09-24T07:16:39.791453+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pawdroid/Free-servers/main/sub",
+    "format": "base64",
+    "node_count": 20,
+    "content_hash": "2dd9daecad7362777d59c99ef3cb01bf9e6a8f198272ecb15c0d73a2926378c7",
+    "checked_at": "2026-09-24T07:16:39.880836+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/configs_base64.txt",
+    "format": "base64",
+    "node_count": 1782,
+    "content_hash": "77e0c03d95657fe4c891c3db6e9065ac7fccc8c93f83d632b63628732ee8eca5",
+    "checked_at": "2026-09-24T07:16:39.968009+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
+    "format": "clash",
+    "node_count": 373,
+    "content_hash": "414d41d9adc9b408041c6a757e62928635fa6f1ee633d588ed3a982e3f376a48",
+    "checked_at": "2026-09-24T07:16:40.353348+00:00"
+  }
+]
