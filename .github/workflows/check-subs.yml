@@ -1,0 +1,52 @@
+name: Daily Check Subscriptions
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # 每天 UTC 02:00，北京时间 10:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests pyyaml
+
+      - name: Check subscriptions
+        run: python scripts/check_subs.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add valid_subscriptions.txt valid_subscriptions.json
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update valid subscriptions $(date -u +'%Y-%m-%d')"
+            git push
+          fi
+
+      - name: Notify Telegram (optional)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            echo "Telegram secrets not set, skip."
+            exit 0
+          fi
+          COUNT=$(wc -l < valid_subscriptions.txt | tr -d ' ')
+          MESSAGE="✅ 每日订阅自检完成，有效链接: ${COUNT} 条。查看: https://github.com/${{ github.repository }}/blob/main/valid_subscriptions.txt"
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TELEGRAM_CHAT_ID}" \
+            -d text="${MESSAGE}"
