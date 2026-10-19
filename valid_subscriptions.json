@@ -2,99 +2,99 @@
   {
     "url": "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/v2ray",
     "format": "base64",
-    "node_count": 32,
-    "content_hash": "bf079dca00a6a4114d966e1ad00b8aae143aeb9c2a6e67ae72317eb997126f9d",
-    "checked_at": "2026-10-18T07:00:09.861585+00:00"
+    "node_count": 39,
+    "content_hash": "bf75960de923c575177d3b927f95a2fc5119f134d535144de739fbaffb8ea01c",
+    "checked_at": "2026-10-19T07:23:03.001184+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml",
     "format": "clash",
     "node_count": 500,
-    "content_hash": "abe1a0f16f047228899f2c7bf41cea8255c772caecb3cffd26739bd7e7b1fdad",
-    "checked_at": "2026-10-18T07:00:10.097771+00:00"
+    "content_hash": "494f8dc5b5027059fc06e4f24eb6396bbc9636e9efe5f5a3d6ee71a088bd52a2",
+    "checked_at": "2026-10-19T07:23:03.366242+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/singBox.json",
     "format": "sing-box",
     "node_count": 492,
-    "content_hash": "396f52e21f1e2b117ec8f54cf710a36b672d65442e172e7c617cb85d4c160460",
-    "checked_at": "2026-10-18T07:00:10.207896+00:00"
+    "content_hash": "099a61c79147275f32d7fe0437aa71ad9ec4717960e4428ed63e916da2c325de",
+    "checked_at": "2026-10-19T07:23:03.476410+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt",
     "format": "base64",
-    "node_count": 2981,
-    "content_hash": "7f6d30d3e52cf9dd2a696baa477df970bac7ffc36aee5111efc03951bab914fc",
-    "checked_at": "2026-10-18T07:00:10.481413+00:00"
+    "node_count": 2980,
+    "content_hash": "254a6bc6afb782b6708212774b3c5dc775be195e2c680ea3074c7d6f3dac1d9e",
+    "checked_at": "2026-10-19T07:23:03.737303+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt",
     "format": "base64",
     "node_count": 100,
-    "content_hash": "d88b9804ac3e96173a978ff901dd3f0961d71de59d8ab1fce4528fc0396bd2fc",
-    "checked_at": "2026-10-18T07:00:10.569328+00:00"
+    "content_hash": "0b46b729e4302cf17738c6470441972b8f00ecf5e61d65982f4715ea19b1e27f",
+    "checked_at": "2026-10-19T07:23:03.824393+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt",
     "format": "plain",
-    "node_count": 7329,
-    "content_hash": "0c173c05b6ef508b8b089817549ea20d9c58c54d0b018aa39a9c017eb19e1f29",
-    "checked_at": "2026-10-18T07:00:10.795630+00:00"
+    "node_count": 7255,
+    "content_hash": "7a02244adb4f362b58b2cdf0155e2943d3e5876adef29db08bd51b2e725e92e3",
+    "checked_at": "2026-10-19T07:23:04.102504+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt",
     "format": "plain",
-    "node_count": 470,
-    "content_hash": "d6fc2cdd57aa87db2e8f0a15985ebbc178ee3a70bedbd03ef467678ce6b6f4bf",
-    "checked_at": "2026-10-18T07:00:10.860559+00:00"
+    "node_count": 462,
+    "content_hash": "603ef3fa0f0ef65e80d3f8520e1a1ed7ded2c286804920dd4a1ec9a6691f3314",
+    "checked_at": "2026-10-19T07:23:04.171139+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within.yaml",
     "format": "clash",
     "node_count": 1614,
     "content_hash": "9e3bac93c99cce3860565a8fe6a8ce72b7900315a078195262a708b05d604972",
-    "checked_at": "2026-10-18T07:00:11.972390+00:00"
+    "checked_at": "2026-10-19T07:23:05.871288+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt",
     "format": "base64",
-    "node_count": 265,
-    "content_hash": "9683242a678a3a93eb5441ebcef7d8ae5050ddc50a05f94adb101c16179bc945",
-    "checked_at": "2026-10-18T07:00:11.983291+00:00"
+    "node_count": 191,
+    "content_hash": "c04880cb9b25f2bd39dd28ffedb1b9e54f05fc4abf64405b5fb3bb0365370773",
+    "checked_at": "2026-10-19T07:23:05.883663+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml",
     "format": "clash",
-    "node_count": 265,
-    "content_hash": "2f64bc6cedd954ccc97e01f90e863eb04e4d825fc9f0562773011f35ffbb1691",
-    "checked_at": "2026-10-18T07:00:12.189564+00:00"
+    "node_count": 191,
+    "content_hash": "633ad19a400c5ce394dda8c2f53078bd90199ffa95a6863c16bf4f753e6ad207",
+    "checked_at": "2026-10-19T07:23:06.122085+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
     "format": "plain",
     "node_count": 537,
     "content_hash": "a1b198087f47f242937afaeb5d0ede12f84b9c3d0fa8ebcdd9a1aa79d8247335",
-    "checked_at": "2026-10-18T07:00:12.234688+00:00"
+    "checked_at": "2026-10-19T07:23:06.234936+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/pawdroid/Free-servers/main/sub",
     "format": "base64",
-    "node_count": 19,
-    "content_hash": "9b2146fdb0c93e7c903da9e959477f8e72cb8185494345708c6834167264efad",
-    "checked_at": "2026-10-18T07:00:12.297254+00:00"
+    "node_count": 15,
+    "content_hash": "6e0c58e2528adcae05db67bcd0865526f8a3c957b4772c3153da05a3f0b6ee7e",
+    "checked_at": "2026-10-19T07:23:06.245402+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/configs_base64.txt",
     "format": "base64",
-    "node_count": 1356,
-    "content_hash": "522ee453abac46a1a2bdd74e01681371529b69bafcd79039eac031de8795a57d",
-    "checked_at": "2026-10-18T07:00:12.378992+00:00"
+    "node_count": 1483,
+    "content_hash": "c2e10027e884299186839d775a62f7e18f9247b9f019ddae1575aa9e9dc9c337",
+    "checked_at": "2026-10-19T07:23:06.393093+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
     "format": "clash",
-    "node_count": 599,
-    "content_hash": "b551efc28c10f32951ca14329f65a4b3f99ecb6237e8e4a3a334af2171d31213",
-    "checked_at": "2026-10-18T07:00:12.796687+00:00"
+    "node_count": 590,
+    "content_hash": "a535fc89fdb9b3b3ca160ae4c4ed19cba21bb0a55060a2919289c54a430ec548",
+    "checked_at": "2026-10-19T07:23:06.992233+00:00"
   }
 ]
