@@ -2,99 +2,99 @@
   {
     "url": "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/v2ray",
     "format": "base64",
-    "node_count": 58,
-    "content_hash": "b5a099cfdd8f8f2171aa893d1570e7dc985ce38838430d662a390a028c258cb6",
-    "checked_at": "2026-10-28T07:57:56.628088+00:00"
+    "node_count": 31,
+    "content_hash": "f1167e34904b012b0f041eeb1d1ee062d95b02299745c4c2b3c04bdc7c22a60c",
+    "checked_at": "2026-10-29T08:05:48.349918+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml",
     "format": "clash",
     "node_count": 500,
-    "content_hash": "989b7d315d2621f71dab2725bc92cf9af61fb4edd6129ba9e8260ed247b2e258",
-    "checked_at": "2026-10-28T07:57:56.999430+00:00"
+    "content_hash": "f19af69845cc4d4f25d84779ec43e79a7306f9cac712d88fd038c00aaa9bd76e",
+    "checked_at": "2026-10-29T08:05:48.697660+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/singBox.json",
     "format": "sing-box",
-    "node_count": 484,
-    "content_hash": "e784a5499a1d8a292b6329bd715ca8273f5928c7c201a3554bfda14c9a6e6ff3",
-    "checked_at": "2026-10-28T07:57:57.128378+00:00"
+    "node_count": 485,
+    "content_hash": "b709f3f8beca31debd32b81b53a2b71dc651996fda3d511e33357307c5b0cd00",
+    "checked_at": "2026-10-29T08:05:48.804685+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt",
     "format": "base64",
-    "node_count": 2982,
-    "content_hash": "28f986096ff87a30d634c9ddc4149592ab7b3e3bb74f705a387fb4831c7839fb",
-    "checked_at": "2026-10-28T07:57:57.519400+00:00"
+    "node_count": 2975,
+    "content_hash": "8cf01bc705d59990287e1af8ee4dc8f9fa6fc7d56ff32cdac71759c991037447",
+    "checked_at": "2026-10-29T08:05:49.293821+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt",
     "format": "base64",
-    "node_count": 99,
-    "content_hash": "20df06c2e1566e2de1b31f8f202b24d57f4ad52d26eaf9647b06a2e885ae432d",
-    "checked_at": "2026-10-28T07:57:57.599412+00:00"
+    "node_count": 100,
+    "content_hash": "931987a02084342fc88e9e11a87257c0e18cd190dabb4259e31c94e10310f410",
+    "checked_at": "2026-10-29T08:05:49.416220+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt",
     "format": "plain",
-    "node_count": 7769,
-    "content_hash": "e52d8d6f4bc34cdd93c1697c2989df1b0bffa8599d6596aff65d479debd5be2e",
-    "checked_at": "2026-10-28T07:57:57.927726+00:00"
+    "node_count": 7925,
+    "content_hash": "67156ad617e55f2980567c46ce6c083883e28297e69780407f9a1c00ae34e819",
+    "checked_at": "2026-10-29T08:05:49.685754+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt",
     "format": "plain",
-    "node_count": 483,
-    "content_hash": "41d1107f916ec01f614171f1a8fc916f6e7972e89e5aa4b475be4430f2cfe696",
-    "checked_at": "2026-10-28T07:57:57.991930+00:00"
+    "node_count": 486,
+    "content_hash": "296d4dbef4b77d7b08a0adc5dddc7e86ce13a7a0a714c4828e2071d1e19afd32",
+    "checked_at": "2026-10-29T08:05:49.756277+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within.yaml",
     "format": "clash",
     "node_count": 1614,
     "content_hash": "9e3bac93c99cce3860565a8fe6a8ce72b7900315a078195262a708b05d604972",
-    "checked_at": "2026-10-28T07:57:59.322905+00:00"
+    "checked_at": "2026-10-29T08:05:51.460698+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt",
     "format": "base64",
-    "node_count": 350,
-    "content_hash": "0c0c880f8c8792800e133befb60c5ebea65aa66673d3c588ac993a272fab027d",
-    "checked_at": "2026-10-28T07:57:59.387650+00:00"
+    "node_count": 82,
+    "content_hash": "5d22e0b5f0b8f7e61b866f59d8bfa4cb6e890d3c196bb204d8c524b47d21ca52",
+    "checked_at": "2026-10-29T08:05:51.567872+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml",
     "format": "clash",
-    "node_count": 350,
-    "content_hash": "65023797fa2b5a0474795cdd61a0600206afd86896f1a799eaf4e97084cab422",
-    "checked_at": "2026-10-28T07:57:59.763026+00:00"
+    "node_count": 82,
+    "content_hash": "5cf62bfccd985938da4b87bf9acb3a6728256a0e14b4a685d2eeedb8d03b3afc",
+    "checked_at": "2026-10-29T08:05:51.736221+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
     "format": "plain",
     "node_count": 425,
     "content_hash": "a1d99a92472eef928353501c0c0a8b8e633400b99acf4a892a4df9490c228071",
-    "checked_at": "2026-10-28T07:57:59.885186+00:00"
+    "checked_at": "2026-10-29T08:05:51.906779+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/pawdroid/Free-servers/main/sub",
     "format": "base64",
-    "node_count": 15,
-    "content_hash": "fad2df69363aabf19cdcc6bac3890d3c6e675f8a8c600520a5b1f4f709f49bd1",
-    "checked_at": "2026-10-28T07:57:59.965837+00:00"
+    "node_count": 9,
+    "content_hash": "c0e299cda21f29a2bb63eebe24a34fb48ea31ec880355615767538076d435f8d",
+    "checked_at": "2026-10-29T08:05:51.982566+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/configs_base64.txt",
     "format": "base64",
-    "node_count": 1334,
-    "content_hash": "1b2e2bb97cb4a454fee762c830f1dd08024d36a3534ff2d07cb9b5844b62dbe2",
-    "checked_at": "2026-10-28T07:57:59.990916+00:00"
+    "node_count": 1190,
+    "content_hash": "c25b4b8f4723fc7c2f6c9f05b9289af71d3f08d96bf02639a57f3708f8cec2d3",
+    "checked_at": "2026-10-29T08:05:52.116400+00:00"
   },
   {
     "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
     "format": "clash",
-    "node_count": 467,
-    "content_hash": "7d425dd46970a4e5d2b4d54ae544b59547f27ede7a9f42fffdeb7bbe3abbd343",
-    "checked_at": "2026-10-28T07:58:00.356161+00:00"
+    "node_count": 408,
+    "content_hash": "dd26069f61cfa6a78e6454d5b864026ac832534ac52e87b0f3d8af5aa271d030",
+    "checked_at": "2026-10-29T08:05:52.563044+00:00"
   }
 ]
